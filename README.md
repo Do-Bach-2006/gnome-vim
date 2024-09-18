@@ -1,10 +1,4 @@
 # 💤 LazyVim
 
-[bac ( surr )\*ound_words
-
-bach ""}
-
-make string
-
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+A modify version of [LazyVim](https://github.com/LazyVim/LazyVim).
+Refer to the [documentation](https://lazyvim.github.io/installation) to know
