@@ -7,4 +7,6 @@ return {
   "AlexvZyl/nordic.nvim",
   "shaunsingh/nord.nvim",
   "Mofiqul/dracula.nvim",
+  "EdenEast/nightfox.nvim",
+  "rebelot/kanagawa.nvim",
 }

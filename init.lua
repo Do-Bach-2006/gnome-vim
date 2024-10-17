@@ -98,6 +98,25 @@ wilder.set_option(
   )
 )
 require("themery").setup({
-  themes = { "dracula", "everforest", "catppuccin", "gruvbox-material", "nord", "sonokai", "tokyonight" }, -- Your list of installed colorschemes.
+  themes = {
+    "dracula",
+    "everforest",
+    "catppuccin",
+    "gruvbox-material",
+    "nord",
+    "sonokai",
+    "tokyonight",
+    "catppuccin-frappe",
+    "catppuccin-macchiato",
+    "catppuccin-mocha",
+    "carbonfox",
+    "duskfox",
+    "nightfox",
+    "terafox",
+    "dracula-soft",
+    "kanagawa",
+    "kanagawa-dragon",
+    "kanagawa-wave",
+  }, -- Your list of installed colorschemes.
   livePreview = true, -- Apply theme while picking. Default to true.
 })
