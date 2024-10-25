@@ -21,6 +21,7 @@ if true then return {
         "typescript",
         "vim",
         "yaml",
+        "cpp", 
       },
     },
   },
