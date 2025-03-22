@@ -33,3 +33,11 @@ for _, language in ipairs({ "typescript", "javascript" }) do
     },
   }
 end
+require("dap").adapters.codelldb = {
+  type = "server",
+  port = "${port}",
+  executable = {
+    command = "codelldb",
+    args = { "--port", "${port}" },
+  },
+}
